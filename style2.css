@@ -1,0 +1,45 @@
+.coachtech{
+  font-weight: bold;
+  color: navy;
+  display: inline-block;
+  margin-top: 80px;
+}
+
+.menu{
+  display:inline-block;
+  margin-right: 0;
+  margin-left:auto;
+  margin-top: 80px;
+}
+
+.menu-list{
+  font-weight: bold;
+  color:navy;
+  padding:0px 15px;
+  font-size: 13px;
+  display: inline;
+}
+
+.img img{
+  width: 50%;
+  height: auto;
+  position: relative;
+  left:50%;
+  top:150px;
+  padding:0px 50px 0px 0px;
+}
+
+.text{
+  font-size: 45px;
+  display: inline-block;
+  margin:0px 0px 0px 50px;
+  position: relative;
+  bottom:-10px;
+}
+
+.box{
+  background-color: navy;
+  width: 70%;
+  height: 160px;
+  margin:0px 0px 50px 50px;
+}
